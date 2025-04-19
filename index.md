@@ -19,3 +19,7 @@ def animate_text(text, cycles=3):
 
 animate_text("* Hello, Python is amazing! *")
 ```
+
+## Adding a task list
+- [x] Point 1
+- [ ] Point 2
